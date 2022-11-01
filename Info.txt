@@ -1,0 +1,5 @@
+Primary Color: #18A1FF
+Background Color: #F5F7FB
+Text Color: #37535E
+Shadow Settings: 0 0 20px hsl(207, 29, 65, 25%)
+Border Radius: 10px-20px
